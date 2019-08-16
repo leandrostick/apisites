@@ -6,7 +6,9 @@ recursos:
   /sites/ *site_id* /categorias
   
   version 1.0 :
-    /sites    devuelve los sites tal y como vienen de api.mercadolibre.com/sites, es decir, sin ordenar alfabeticamente.
+  
+  
+   /sites    devuelve los sites tal y como vienen de api.mercadolibre.com/sites, es decir, sin ordenar alfabeticamente.
     
    /sites/ *site_id* /categorias    devuelve las categorias de un site dependiendo del site_id ingresado
 
