@@ -3,6 +3,7 @@ Api de los sites y categorias de mercadolibre.com
 
 recursos:
   /sites
+  
   /sites/ *site_id* /categorias
   
   version 1.0 :
